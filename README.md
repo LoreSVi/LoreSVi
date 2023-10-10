@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! 👋,My name is Lorena S Vivas and I'm a Front-end Developer.🌟</h1>
+<h1 align="center">Hi! 👋,My name is Lorena S Vivas and I'm a FullStack Developer.🌟</h1>
 <h2 align="center">Student at Mobile Developer🌟</h2>
 <br>
 <img align='right' src='https://res.cloudinary.com/dtgaqvham/image/upload/v1693503706/gifporfoliogithub_m7hp5v.gif' >
