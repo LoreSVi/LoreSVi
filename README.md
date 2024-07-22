@@ -1,10 +1,9 @@
 
 
-<h1 align="center">Hi! 👋,My name is Lorena S Vivas. I'm a FrontEnd Developer.🌟</h1>
+<h1 align="center">Hi! 👋,My name is Lorena S Vivas. I'm a FrontEnd Developer and Full stack developer🌟</h1>
 <h2 align="center">and I am constantly learning!  🌟</h2>
-<p> I was doing projects where I used html, css, javascript, reactjs and libraries.</p>
-<p>I am currently still training in fullstack and mobile development </p>
-<p>also, I have knowledge in SQL, MySQL and prepare reports with the data collected. </p>
+<p> I was doing projects where I used html, css, javascript, reactjs and libraries, sql, python.</p>
+<p>I have knowledge in SQL, MySQL and prepare reports with the data collected. </p>
 <br>
 <img align='right' src='https://res.cloudinary.com/dtgaqvham/image/upload/v1693503706/gifporfoliogithub_m7hp5v.gif' >
 
