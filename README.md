@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi! 👋,My name is Lorena S Vivas. I'm a FrontEnd Developer and Full stack developer🌟</h1>
+<h1 align="center">Hi! 👋,My name is Lorena S Vivas. I'm a FrontEnd Developer and Full stack developer🌟I am developing my skills as a QA Tester</h1>
 <h2 align="center">and I am constantly learning!  🌟</h2>
 <p> I was doing projects where I used html, css, javascript, reactjs and libraries, sql,Angular y  python.</p>
 <p>I have knowledge in SQL, MySQL and prepare reports with the data collected. </p>
