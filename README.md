@@ -1,13 +1,30 @@
 
+<h1 align="center">Hi! 👋 My name is **Lorena S Vivas**.</h1>
+### 🔍 Aspirante a QA Tester Junior | Desarrolladora con Base Técnica
 
-<h1 align="center">Hi! 👋,My name is Lorena S Vivas. I'm a FrontEnd Developer and Full stack developer🌟I am developing my skills as a QA Tester</h1>
-<h2 align="center">and I am constantly learning!  🌟</h2>
-<p> I was doing projects where I used html, css, javascript, reactjs and libraries, sql,Angular y  python.</p>
-<p>I have knowledge in SQL, MySQL and prepare reports with the data collected. </p>
-<br>
-<img align='right' src='https://res.cloudinary.com/dtgaqvham/image/upload/v1693503706/gifporfoliogithub_m7hp5v.gif' >
+Actualmente estoy enfocada en desarrollar y pulir mis habilidades como **QA Tester Junior**. Mi objetivo es garantizar la calidad del software, aplicando mi **mentalidad analítica** y mi base sólida en desarrollo.
 
-- 📫 How to reach me **loresuvivas@gmail.com**
+#### Lo que estoy aprendiendo y aplicando en QA:
+* **Fundamentos de Testing:** Creación de planes de prueba, casos de prueba (test cases), y matrices de trazabilidad.
+* **Tipos de Pruebas:** Funcionales (Smoke, Regresión, Sanity), Usabilidad, y Exploratorias.
+* **Herramientas:** Uso de **Jira** (y otros como trello) para la gestión de defectos (bug tracking) y **Postman** para pruebas de API.
+* **Metodologías:** Familiaridad con flujos de trabajo **Agile/Scrum**.
+
+---
+
+### 💻 Mi Background Técnico (¡Una ventaja para QA!)
+
+Mi experiencia previa como desarrolladora me da una perspectiva valiosa para entender la arquitectura del software y comunicarme eficazmente con los equipos de desarrollo:
+* **Lenguajes & Frameworks:** Conocimiento práctico en HTML, CSS, JavaScript, Python, react, angular
+* **QA Manual y QA Automation**
+*  **Lenguajes & Frameworks automation testing:** Webdriver.io, Jasmine, Jest, Robot framework, Nightwatch, QA Wolf, Selenium,Cypress, Playwright, TestNG.
+*  **Metodologías Agiles:** Scrum, Metodología XP.
+*  **DevTools**
+*  **pruebas APIS**
+*  **Pruebas de performance**
+*  **bases de datos**:mysql, mongo db.
+*  **CI/CD**: Jenkins, Docker.
+*  **Cloud Computing**: localStack
 <br>
 <h3 align="left">Connect with me:</h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
