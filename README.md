@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi! 👋 My name is **Lorena S Vivas**.</h1>
-### 🔍  QA Tester Junior | Desarrolladora con Base Técnica
+### 🔍  QA Tester | Desarrolladora con Base Técnica
 
-Actualmente estoy enfocada en desarrollar y pulir mis habilidades como **QA Tester Junior**. Mi objetivo es garantizar la calidad del software, aplicando mi **mentalidad analítica** y mi base sólida en desarrollo.
+Actualmente estoy enfocada en desarrollar y pulir mis habilidades como **QA Tester **. Mi objetivo es garantizar la calidad del software, aplicando mi **mentalidad analítica** y mi base sólida en desarrollo.
 
 #### Lo que estoy aprendiendo y aplicando en QA:
 * **Fundamentos de Testing:** Creación de planes de prueba, casos de prueba (test cases), y matrices de trazabilidad.
@@ -10,7 +10,7 @@ Actualmente estoy enfocada en desarrollar y pulir mis habilidades como **QA Test
 * **Herramientas:** Uso de **Jira** (y otros como trello) para la gestión de defectos (bug tracking) y **Postman** para pruebas de API.
 * **Metodologías:** Familiaridad con flujos de trabajo **Agile/Scrum**.
 * IA con claude code y Mcp playwright
-
+github actions CI
 ---
 
 ### 💻 Mi Background Técnico (¡Una ventaja para QA!)
